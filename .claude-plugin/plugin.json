@@ -1,0 +1,7 @@
+{
+  "name": "plan-board",
+  "version": "1.0.0",
+  "description": "Turns a messy plan or retro notes into a Claude Whiteboard: a timeline with owners and dates, retros grouped by theme with action items, and a hand-off to a doc or deck.",
+  "author": { "name": "McGivney Media", "email": "shannon@mcgivneymedia.com" },
+  "keywords": ["claude", "whiteboard", "planning", "retro", "project-management", "skills", "teams"]
+}
